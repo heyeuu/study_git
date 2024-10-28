@@ -1,2 +1,1 @@
-# study_git
-The repisitory is created to study git.
+# 我的第一个GitHub仓库
